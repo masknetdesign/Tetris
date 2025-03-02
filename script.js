@@ -211,4 +211,3 @@ nextPiece = randomPiece();
 displayHighScores();
 draw();
 gameLoop();
-
